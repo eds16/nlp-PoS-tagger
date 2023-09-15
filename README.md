@@ -3,7 +3,11 @@
 
 Part of Speech Tagger is the process of marking up a word in a text as corresponding to a particular part of speech, based on both its definition and its context.
 
-
+## Tagging
+|   Tag   | Corresponding |
+|---------|------------------------------------------|
+| CC | Coordinating Conjunction |
+| IN  | Preposition or subordinating conjunction |
 # References
 [Wikipedia Part of Speech Tagging](https://en.wikipedia.org/wiki/Part-of-speech_tagging)
 
